@@ -1,0 +1,7 @@
+C:\myapp\myapplictoin\myapplictoin\bin\Debug\myapplictoin.exe.config
+C:\myapp\myapplictoin\myapplictoin\bin\Debug\myapplictoin.exe
+C:\myapp\myapplictoin\myapplictoin\bin\Debug\myapplictoin.pdb
+C:\myapp\myapplictoin\myapplictoin\obj\Debug\myapplictoin.csprojAssemblyReference.cache
+C:\myapp\myapplictoin\myapplictoin\obj\Debug\myapplictoin.csproj.CoreCompileInputs.cache
+C:\myapp\myapplictoin\myapplictoin\obj\Debug\myapplictoin.exe
+C:\myapp\myapplictoin\myapplictoin\obj\Debug\myapplictoin.pdb
